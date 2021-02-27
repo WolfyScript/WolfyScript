@@ -11,13 +11,9 @@ Like Items, Recipes, APIs or even Armor Stand customization.
 
 
 ## Projects
-### WolfyUtilities - ![Spigot Downloads](https://img.shields.io/spiget/rating/64124) ![Spigot Downloads](https://img.shields.io/spiget/downloads/64124?color=blue)  
-  [SpigotMC](https://www.spigotmc.org/resources/64124/)
+### WolfyUtilities - ![Spigot Downloads](https://img.shields.io/spiget/rating/64124) ![Spigot Downloads](https://img.shields.io/spiget/downloads/64124?color=blue)
 ### CustomCrafting - ![Spigot Downloads](https://img.shields.io/spiget/rating/55883) ![Spigot Downloads](https://img.shields.io/spiget/downloads/55883?color=blue)  
-  [SpigotMC](https://www.spigotmc.org/resources/55883/)
 ### ArmorStandTool - ![Spigot Downloads](https://img.shields.io/spiget/rating/64126) ![Spigot Downloads](https://img.shields.io/spiget/downloads/64126?color=blue)  
-  [SpigotMC](https://www.spigotmc.org/resources/64126/), GitHub
-
 
 <!--
 **WolfyScript/WolfyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
