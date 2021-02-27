@@ -5,7 +5,7 @@ I mostly work on Minecraft server plugins based on Spigot.
 _______
 
 :gear: I’m currently working on Spigot plugins, which are focused on making content creation for servers easier.  
-Like Item, Recipe, APIs or even Armor Stand customization.
+Like Items, Recipes, APIs or even Armor Stand customization.
 
 :book: Always learning new ways to improve my projects and workflow.
  
