@@ -4,6 +4,9 @@ Since then I learned a lot about making plugins and I am passionate about develo
 I mostly work on Minecraft server plugins based on Spigot.
 _______
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+_______
 :gear: I’m currently working on Spigot plugins, which are focused on making content creation for servers easier.  
 Like Items, Recipes, APIs or even Armor Stand customization.
 
