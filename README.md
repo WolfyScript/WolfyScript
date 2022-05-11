@@ -11,7 +11,7 @@ _______
 :gear: I’m currently working on Spigot plugins, designed to extend the customizability of Minecraft and make content creation easier.
 For example custom Items, Recipes and APIs that combine common code of my projects.
 
-:book: I'm currently studying Computer Science.  
+:book: I'm currently studying Computer Science and learning new ways to optimize my projects.  
 
 
 <!--
