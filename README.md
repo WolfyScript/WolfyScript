@@ -1,16 +1,17 @@
 ### Hi my name is Gunnar,
-I'm a Java Developer and I first started working on Minecraft related projects in 2015.  
-Since then I learned a lot about making plugins and I am passionate about developing quality Plugins in my free-time.  
-I mostly work on Minecraft server plugins based on Spigot.
+I'm a Java Developer and Computer Science Student.  
+I first started working on Minecraft projects in 2015.  
+Since then I develop Minecraft Plugins and Mods in my free-time.  
+Most of the projects I work on are Minecraft server plugins based on Spigot and recently started working Sponge.
 _______
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 _______
-:gear: I’m currently working on Spigot plugins, which are focused on making content creation for servers easier.  
-Like Items, Recipes, APIs or even Armor Stand customization.
+:gear: I’m currently working on Spigot plugins, designed to extend the customizability of Minecraft and make content creation easier.
+For example custom Items, Recipes and APIs that combine common code of my projects.
 
-:book: Always learning new ways to improve my projects and workflow.  
+:book: I'm currently studying Computer Science.  
 
 
 <!--
