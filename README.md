@@ -2,7 +2,7 @@
 I'm a Java Developer and Computer Science Student.  
 I first started working on Minecraft projects in 2015.  
 Since then I develop Minecraft Plugins and Mods in my free-time.  
-Most of the projects I work on are Minecraft server plugins based on Spigot and recently started working Sponge.
+Most of the projects I work on are Minecraft server plugins based on Spigot and recently started working with Sponge.
 _______
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
