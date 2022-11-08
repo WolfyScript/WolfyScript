@@ -21,6 +21,15 @@ _______
 ![](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=RAM&message=32GB&color=blue)
 
+_______
+#### Social
+
+<a rel="me" href="https://craftodon.social/@wolfyscript">
+  
+  ![](https://img.shields.io/static/v1?style=for-the-badge&logo=mastodon&logoColor=3088D4&label=Mastodon&message=@wolfyscript&labelColor=282C37&color=313543)
+
+</a>
+
 <!--
 **WolfyScript/WolfyScript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
