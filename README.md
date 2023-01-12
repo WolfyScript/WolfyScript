@@ -5,7 +5,7 @@ Since then I develop Minecraft Plugins and Mods in my free-time.
 Most of the projects I work on are Minecraft server plugins based on Spigot and recently started working with Sponge.
 _______
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 _______
 :gear: I’m currently working on Spigot plugins, designed to extend the customizability of Minecraft and make content creation easier.
