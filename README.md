@@ -32,7 +32,7 @@ Plugins/Mods designed to extend customizability and make content creation easier
 ![](https://img.shields.io/static/v1?style=for-the-badge&label=RAM&message=32GB&color=blue)  
 
 ### Check out my partner!
-<a href="https://billing.kinetichosting.net/aff.php?aff=345" style="margin:">
+<a href="https://billing.kinetichosting.net/aff.php?aff=345">
   <img width="600px" src="https://user-images.githubusercontent.com/41468455/237019976-6b66b7f4-3d26-4b2f-b858-463ffe675531.png"/>
 </a>
 
