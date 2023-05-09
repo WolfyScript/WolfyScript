@@ -10,7 +10,7 @@ Since then I develop mostly Spigot plugins and other side-projects in my freetim
 #### Social
 [![](https://img.shields.io/static/v1?style=for-the-badge&logo=mastodon&logoColor=3088D4&label=Mastodon&message=@wolfyscript&labelColor=282C37&color=313543)](https://craftodon.social/@wolfyscript)  
 [![](https://img.shields.io/discord/477026331096514571?color=5865F2&label=Discord&labelColor=5865F2&logo=discord&logoColor=ffffff&logoWidth=20&style=for-the-badge)](https://discord.gg/qGhDTSr)  
-[![](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&logoWidth=20&label=YouTube&message=WolfyScript&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@wolfyscript)  
+[![](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&logoWidth=20&label=YouTube&message=@wolfyscript&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@wolfyscript)  
 [![](https://img.shields.io/static/v1?style=for-the-badge&logo=patreon&logoColor=ffffff&logoWidth=40&label=Patreon&message=WolfyScript&labelColor=FF424D&color=FF424D)](https://www.patreon.com/wolfyscript)
 <br clear="right"/>
 
