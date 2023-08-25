@@ -24,13 +24,16 @@ Plugins/Mods designed to extend customizability and make content creation easier
 ##### Other Projects:
 * HOCON Dataformat Jackson - HOCON dataformat support for the Jackson JSON library
 
-#### :computer: My Setup
-
+#### :computer: Setup
 [![](https://img.shields.io/static/v1?style=for-the-badge&logo=manjaro&logoColor=white&label=MANJARO&message=KDE%20Plasma&labelColor=258572&color=1f7262)](https://manjaro.org/)
-![](https://img.shields.io/badge/AMD%20Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![](https://img.shields.io/static/v1?style=for-the-badge&label=RAM&message=32GB&color=blue)  
+![](https://img.shields.io/badge/Ryzen_9_3900X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/RX_7900_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/static/v1?style=for-the-badge&label=Memory&message=32GB&labelColor=3a6da2&color=3a6da2)
 
+![](https://img.shields.io/static/v1?style=for-the-badge&labelColor=222426&message=IntelliJ+IDEA&color=3a6da2&logo=IntelliJ+IDEA&logoColor=white&label=)
+![](https://img.shields.io/static/v1?style=for-the-badge&labelColor=222426&color=3a6da2&logo=gnubash&logoColor=white&message=konsole%20%26%20zsh&label=)
+
+<!-- &labelColor=222426&color=3a6da2 gnubash -->
 ### Check out my partner!
 <a href="https://billing.kinetichosting.net/aff.php?aff=345">
   <img width="600px" src="https://user-images.githubusercontent.com/41468455/237019976-6b66b7f4-3d26-4b2f-b858-463ffe675531.png"/>
