@@ -3,9 +3,7 @@
 
 ###### <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="WolfyScripts GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"><a/>
 
-I'm a Computer Science Student and Java Developer.   
-I first started working on Minecraft mods/plugins in 2015.  
-Since then I develop mostly Spigot plugins and other side-projects in my freetime.  
+I'm a Computer Science Student and Java/Kotlin Developer. Started working on Minecraft mods/plugins in 2015, developing plugins and other side-projects in my freetime ever since.  
 
 #### Social
 [![](https://img.shields.io/static/v1?style=for-the-badge&logo=youtube&logoColor=ffffff&logoWidth=40&label=YouTube%20%E2%A0%80&message=@wolfyscript&labelColor=FF0000&color=FF0000)](https://www.youtube.com/@wolfyscript)  
@@ -16,9 +14,10 @@ Since then I develop mostly Spigot plugins and other side-projects in my freetim
 #### :gear:  Projects
 
 ##### Minecraft plugins/mods:
-Plugins/Mods designed to extend customizability and make content creation easier.
-* CustomCrafting - Makes it easier to create complex custom recipes for Minecraft.
-* WolfyUtils     - API that makes it easier to create in-game GUIs, and provides common utilities.  
+Plugins/Mods designed to extend customizability and make content creation easier
+* CustomCrafting - Makes it easier to create complex custom recipes for Minecraft
+* scafall - An API to create multiplatform plugins/mods that work across Spigot and Sponge
+* viewportl - A one if its kind reactive GUI framework for Minecraft across multiple platforms
 
 ##### Other Projects:
 * HOCON Dataformat Jackson - HOCON dataformat support for the Jackson JSON library
