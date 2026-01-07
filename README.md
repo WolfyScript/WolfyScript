@@ -1,8 +1,6 @@
 ### Hi my name is Gunnar,
 > aka. Wolfy, WolfyScript
 
-###### <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="WolfyScripts GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WolfyScript&count_private=true&include_all_commits=true&show_icons=true&theme=dracula"><a/>
-
 I'm a Computer Science Student and Java/Kotlin Developer. Started working on Minecraft mods/plugins in 2015, developing plugins and other side-projects in my freetime ever since.  
 
 #### Social
